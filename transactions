@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "type": "deposit",
+      "date": "Thu Sep 29 2022 19:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "amount": 50.00
+    },
+    {
+      "type": "raise",
+      "date": "Thu Sep 14 2022 10:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "amount": 20.00
+    },
+    {
+      "type": "gain",
+      "date": "Thu Sep 25 2022 21:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "amount": 60.00
+    },
+    {
+      "type": "bet",
+      "date": "Thu Sep 21 2022 14:15:40 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "amount": 50.00
+    }
+  ]
+}
