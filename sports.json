@@ -1,0 +1,25 @@
+
+{
+  "desportos": [
+    {
+      "sport": "basquet",
+      "id": "1",
+      "type":"coletivo"
+    },
+    {
+      "sport": "futebol",
+      "id": "2",
+      "type":"coletivo"
+    },
+    {
+      "sport": "volei",
+      "id": "3",
+      "type":"coletivo"
+    },
+     {
+      "sport": "atletismo",
+      "id": "4",
+      "type":"individual"
+    },
+   ]
+}
